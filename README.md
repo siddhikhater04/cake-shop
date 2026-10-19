@@ -12,8 +12,8 @@ This website is designed for customers who want to explore different cake variet
 - Pastry
 - About
   
-  ![Home page Screenshot](./../img/home-page-screenshot.png)
-  ![cake page Screenshot](./../img/cake-page-screenshot.png)
+  ![Home page Screenshot](./img/home-page-screenshot.png)
+  ![cake page Screenshot](./img/cake-page-screenshot.png)
   
 ## Technologies Used
 - HTML
